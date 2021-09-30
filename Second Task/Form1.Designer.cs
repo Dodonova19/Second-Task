@@ -57,7 +57,7 @@
             // nInput
             // 
             this.nInput.Location = new System.Drawing.Point(12, 36);
-            this.nInput.MaxLength = 10;
+            this.nInput.MaxLength = 9;
             this.nInput.Name = "nInput";
             this.nInput.Size = new System.Drawing.Size(281, 23);
             this.nInput.TabIndex = 1;

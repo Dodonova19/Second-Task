@@ -12,7 +12,7 @@ namespace Second_Task
 {
     public partial class TaskForm : Form
     {
-        public TaskForm()
+        public TaskForm() 
         {
             InitializeComponent();
             nInput.Text = Properties.Settings.Default.n.ToString();
